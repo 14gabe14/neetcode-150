@@ -6,7 +6,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Arrays & Hashing        [█████████]         9/9
     Two Pointers            [████████□]         4/5
     Stack                   [███████□]          6/7
-    Binary Search           [████□□□]           4/7
+    Binary Search           [██████□]           6/7
     Sliding Window          [█□□□□□]            1/6
     Linked List             [███□□□□□□□□]       3/11
     Trees                   [██████□□□□□□□□□]   6/15
