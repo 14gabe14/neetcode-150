@@ -7,7 +7,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Two Pointers            [████████□]         4/5
     Stack                   [███████□]          6/7
     Binary Search           [██████□]           6/7
-    Sliding Window          [███□□□]            3/6
+    Sliding Window          [█████□]            5/6
     Linked List             [███□□□□□□□□]       3/11
     Trees                   [██████□□□□□□□□□]   6/15
     Tries                   [□□□]               0/3
