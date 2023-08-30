@@ -9,7 +9,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Binary Search           [██████□]           6/7
     Sliding Window          [█████□]            5/6
     Linked List             [████████□□□]       8/11
-    Trees                   [████████□□□□□□□]   8/15
+    Trees                   [█████████□□□□□□]   9/15
     Tries                   [□□□]               0/3
     Backtracking            [□□□□□□□□□]         0/9
     Heap / Priority Queue   [██□□□□□□]          2/7
