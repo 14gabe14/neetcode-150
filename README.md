@@ -10,7 +10,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Sliding Window          [█████□]            5/6
     Linked List             [████████□□□]       8/11
     Trees                   [████████████□□□]   12/15
-    Tries                   [□□□]               0/3
+    Tries                   [██□]               2/3
     Backtracking            [□□□□□□□□□]         0/9
     Heap / Priority Queue   [██□□□□□□]          2/7
     Graphs                  [□□□□□□□□□□□□□]     0/13
