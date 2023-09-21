@@ -12,7 +12,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Trees                   [████████████□□□]   12/15
     Tries                   [██□]               2/3
     Backtracking            [██□□□□□□□]         2/9
-    Heap / Priority Queue   [██□□□□□□]          2/7
+    Heap / Priority Queue   [███□□□□□]          3/7
     Graphs                  [□□□□□□□□□□□□□]     0/13
     1-D Dynamic Programming [██□□□□□□□□□□]      2/12
     Intervals               [█□□□□□]            1/6
