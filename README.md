@@ -13,7 +13,7 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Tries                   [██□]               2/3
     Backtracking            [██□□□□□□□]         2/9
     Heap / Priority Queue   [███□□□□□]          3/7
-    Graphs                  [□□□□□□□□□□□□□]     0/13
+    Graphs                  [█□□□□□□□□□□□□]     1/13
     1-D Dynamic Programming [██□□□□□□□□□□]      2/12
     Intervals               [██□□□□]            2/6
     Greddy                  [□□□□□□□□]          0/8
