@@ -11,9 +11,9 @@ This repository contains my solutions to the Neetcode 150 problems. Neetcode 150
     Linked List             [████████□□□]       8/11
     Trees                   [████████████□□□]   12/15
     Tries                   [██□]               2/3
-    Backtracking            [██□□□□□□□]         2/9
+    Backtracking            [████□□□□□]         4/9
     Heap / Priority Queue   [█████□□]           5/7
-    Graphs                  [█□□□□□□□□□□□□]     1/13
+    Graphs                  [███□□□□□□□□□□]     3/13
     1-D Dynamic Programming [██□□□□□□□□□□]      2/12
     Intervals               [██□□□□]            2/6
     Greedy                  [██□□□□□□]          2/8
